@@ -1,0 +1,26 @@
+{
+    "sections": [
+        {
+            "title": "Day after release (the steps to take)",
+            "content": [
+                "It is now a good time to:",
+                "If you have questions about Universal Credit call <a href='tel:08003285644'>0800 328 5644</a>.",
+                "If you have a long term disability or a medical reason that you cannot work then you should apply for ESA/PIP. To apply for ESA or PIP call: <a href='tel:08001690350'>0800 169 0350</a>.",
+                "For pension queries the Pension Service can be called on <a href='tel:08007317898'>0800 731 7898</a>.",
+                "Sign any documents to do with your accommodation that you need to. <strong>Make sure you read them carefully and keep a copy for yourself</strong>."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        },
+        {
+            "title": "Additional resources",
+            "content": [
+                "If you need medication you should apply to see healthcare. Healthcare can provide you 7 days of medicine on the day you are released from prison.",
+                "If you are of retirement age make a note to contact Age UK to ask for their help in claiming benefits.",
+                "Try and prepare yourself mentally for release. This will not be easy, but think about what you would like to achieve and note down a few aims and objectives for yourself. Think about who you can go to for support."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        }
+    ]
+}

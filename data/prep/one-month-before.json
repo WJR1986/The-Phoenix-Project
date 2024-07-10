@@ -1,0 +1,53 @@
+{
+    "sections": [
+        {
+            "title": "One month before release (the steps to take)",
+            "content": [
+                "This section covers information for those one month before release.",
+                "Each section below will guide you with applications and information gathering."
+            ]
+        },
+        {
+            "title": "Paperwork and Finances",
+            "content": [
+                "Talk to your personal officer about signing release papers.",
+                "Finish any applications for Universal Credit or Jobseekers Allowance.",
+                "When you are released you will be given up to £200 of the money from your prison account. This will be given you in cash. Any money over £200 will be given to you as a cheque. If you want this money in cash instead of a cheque you will have to ask for it to be in cash before your day of release. You will be asked to sign a form that says you asked for the money in cash and you understand the dangers of carrying the money in cash."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        },
+        {
+            "title": "Property and Belongings",
+            "content": [
+                "Return any books you have borrowed from the prison.",
+                "Start planning what you want to take with you when you are released and pack what you can.",
+                "Check with your personal officer what you can throw away and what you can leave behind.",
+                "Put the property you want to take with you in bags and take them to reception.",
+                "Find out about your transport from the prison to your new accommodation."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        },
+        {
+            "title": "Health & Other Support",
+            "content": [
+                "If you need medication you should apply to see healthcare. Healthcare can provide you 7 days of medicine on the day you are released from prison.",
+                "If you are of retirement age make a note to contact Age UK to ask for their help in claiming benefits.",
+                "Try and prepare yourself mentally for release. This will not be easy, but think about what you would like to achieve and note down a few aims and objectives for yourself. Think about who you can go to for support."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        },
+        {
+            "title": "Additional resources",
+            "content": [
+                "If you need medication you should apply to see healthcare. Healthcare can provide you 7 days of medicine on the day you are released from prison.",
+                "If you are of retirement age make a note to contact Age UK to ask for their help in claiming benefits.",
+                "Try and prepare yourself mentally for release. This will not be easy, but think about what you would like to achieve and note down a few aims and objectives for yourself. Think about who you can go to for support."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        }
+    ]
+}

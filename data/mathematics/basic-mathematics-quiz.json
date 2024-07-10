@@ -1,0 +1,90 @@
+{
+    "quiz": [
+        {
+            "question": "MATHS is 2 + 2?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "4"
+        },
+        {
+            "question": "MATHS is 5 - 3....?",
+            "options": ["2", "3", "4", "5"],
+            "answer": "2"
+        },
+        {
+            "question": "MATHS is 3 * 3tttt?",
+            "options": ["6", "7", "8", "9"],
+            "answer": "9"
+        },
+        {
+            "question": "MATHS is 10 / 2iii?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "5"
+        }
+        ,
+        {
+            "question": "MATHS is 10 / 2yyy?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "5"
+        }
+        ,
+        {
+            "question": "MATHS is 10 / 2uuu?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "5"
+        }
+        ,
+        {
+            "question": "MATHS is 10 / 2 wwww?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "5"
+        }
+        ,
+        {
+            "question": "MATHS is 10 / ww2?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "5"
+        }
+        ,
+        {
+            "question": "MATHS is 10 / 2aaa?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "5"
+        }
+        ,
+        {
+            "question": "MATHS is 10 / 2bbb?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "5"
+        }
+        ,
+        {
+            "question": "MATHS is 10 / 2vvvv?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "5"
+        }
+        ,
+        {
+            "question": "MATHS is 10 / 2xxxxxc?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "5"
+        }
+        ,
+        {
+            "question": "MATHS is 10 / 2xxxxx?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "5"
+        }
+        ,
+        {
+            "question": "MATHS is 10 / 2x?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "5"
+        }
+        ,
+        {
+            "question": "MATHS is 10 / 2xxx?",
+            "options": ["3", "4", "5", "6"],
+            "answer": "5"
+        }
+    ]
+}

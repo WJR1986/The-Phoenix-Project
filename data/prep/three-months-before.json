@@ -1,0 +1,64 @@
+{
+    "sections": [
+        {
+            "title": "Three months before release - steps to take",
+            "content": [
+                "This section covers information for those three months before release.",
+                "Each section below will guide you with applications and information gathering."
+            ]
+        },
+        {
+            "title": "Visit the Resettlement Office",
+            "content": [
+                "<strong>Visit the Resettlement Office</strong>, to help with outstanding resettlement issues. This removes a potential hurdle for your release.",
+                "A resettlement officer may should be able to assist with opening a <strong> bank account</strong>."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        },
+        {
+            "title": "Funding and Grants",
+            "content": [
+                "If you haven’t already done so and you are seeking supplementary funding, now might be a good time to make applications for funding and grants. Speak to your probation officer about this."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        },
+        {
+            "title": "Contact Jobcentre Plus",
+            "content": [
+                "<strong>Contact Jobcentre Plus</strong> to find out about benefits you could apply for.",
+                "A Universal Credit (UC) application must be filled in online at <a href='https://www.gov.uk/apply-universal-credit' target='_blank'>www.gov.uk/apply-universal-credit</a>. If you need help with the application or have any questions, call: <a href='tel:08003285644'>0800 328 5644</a>.",
+                "If you can apply for Jobseekers Allowance, fill in the online application at <a href='https://www.gov.uk/jobseekers-allowance/how-to-claim' target='_blank'>www.gov.uk/jobseekers-allowance/how-to-claim</a> or call <a href='tel:08000556688'>0800 055 6688</a> Monday to Friday, 8am to 6pm."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        },
+        {
+            "title": "Visit the library",
+            "content": [
+                "Ask someone who works in the library to look up information for you on National Careers Service, Skills Development Scotland, Careers Wales or nidirect Careers Service. They have websites that give information and advice on getting jobs.",
+                "Also, see the getting into employment section and look at the Hardman Directory for ideas.",
+                "If you have the Virtual Campus in your prison, you can gain access to a lot of useful information on jobs pre-release. You might also have an Employment Hub in your prison."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        },
+        {
+            "title": "Housing Advice",
+            "content": [
+                "Ask your personal officer about charities that give advice on housing (temporary or permanent). Your prison may have connections with different charities that provide advice and guidance on this."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        },
+        {
+            "title": "Find a Mentor",
+            "content": [
+                "It can be difficult to ‘go it alone’. Prison charities or chaplaincies might be able to help you contact local organisations in the area you are going to."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        }
+    ]
+}

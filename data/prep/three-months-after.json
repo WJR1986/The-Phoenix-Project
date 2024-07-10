@@ -1,0 +1,64 @@
+{
+    "sections": [
+        {
+            "title": "First week after release (the steps to take)",
+            "content": [
+                "Keep looking for jobs if you do not already have one.",
+                "Hopefully by now you can move to a permanent address.",
+                "... but if you don’t have a permanent address, there are a number of places you can go to around the country which offer support, classes, and free food. Ask probation or phone the national homeless charities’ helplines to see if they know of places in your town or city.",
+                "If you are able to move to another address you need to let your bank know.",
+                "You may need to contact the companies that provide water, gas, and electricity and tell them your new address.",
+                "If you are getting benefits then you need to tell the Department of Work and Pensions that you have moved.",
+                "You may need to apply for a television licence. This can be paid by direct debit.",
+                "You can sign up for free courses and join local organisations. These are a great way to have fun and meet new people.",
+                "You can also think about volunteering. Charities require all sorts of help and there are regional and government schemes that promote volunteering."
+            ]
+        },
+        {
+            "title": "Job Search Websites",
+            "content": [
+                {
+                    "url": "https://uk.indeed.com/",
+                    "text": "Indeed"
+                },
+                {
+                    "url": "https://www.glassdoor.co.uk/",
+                    "text": "Glassdoor"
+                },
+                {
+                    "url": "https://www.totaljobs.com/",
+                    "text": "Total Jobs"
+                },
+                {
+                    "url": "https://www.reed.co.uk/",
+                    "text": "Reed"
+                },
+                {
+                    "url": "https://www.monster.co.uk/",
+                    "text": "Monster"
+                },
+                {
+                    "url": "https://uk.jora.com/",
+                    "text": "Jora"
+                }
+            ]
+        },
+        {
+            "title": "Charitable Organisations",
+            "content": [
+                {
+                    "url": "https://www.charitynavigator.org/",
+                    "text": "Charity Navigator"
+                },
+                {
+                    "url": "https://www.guidestar.org/",
+                    "text": "GuideStar"
+                },
+                {
+                    "url": "https://www.charitycommission.gov.uk/",
+                    "text": "Charity Commission"
+                }
+            ]
+        }
+    ]
+}

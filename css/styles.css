@@ -1,0 +1,131 @@
+/* styles.css */
+
+/* Adjust body padding for fixed navbar */
+body {
+  /**/
+}
+
+.max-image-size {
+  max-width: 300px;
+  max-height: 300px;
+  width: auto;
+  height: auto;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+.image-container {
+  position: relative;
+  overflow: hidden;
+  margin-top: 10px; /* Adjust margin top as needed */
+}
+
+.image-container img {
+  display: block;
+  width: 100%; /* Ensure the image fills the container */
+  height: auto;
+}
+
+.image-title {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  font-size: 12px;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center; /* Center align text */
+  width: 300px; /* Ensure the title spans the full width of the image */
+}
+
+.logo {
+  max-width: 300px;
+  max-height: 300px;
+  width: auto;
+  height: auto;
+}
+
+.mob-logo {
+  max-width: 100px !important;
+  max-height: 100px !important;
+  width: auto;
+  height: auto;
+}
+
+/* Navbar styling */
+[data-bs-theme="light"] .navbar {
+  background-color: #f8f9fa; /* Light background color */
+  color: #343a40; /* Dark text color */
+  /* Add other styling properties as needed */
+}
+
+[data-bs-theme="light"] .navbar a {
+  color: #343a40; /* Dark text color for links */
+}
+
+[data-bs-theme="dark"] .navbar {
+  background-color: #343a40; /* Dark background color */
+  color: #f8f9fa; /* Light text color */
+  /* Add other styling properties as needed */
+}
+
+[data-bs-theme="dark"] .navbar a {
+  color: #f8f9fa; /* Light text color for links */
+}
+
+/* Ensure navbar links are properly styled */
+.navbar a.nav-link {
+  transition: color 0.3s; /* Smooth transition for link color */
+}
+
+@media (min-width: 768px) {
+  .card-body .row {
+    display: flex;
+    align-items: center;
+  }
+
+  .card-body .col-md-8 {
+    order: 1;
+  }
+
+  .card-body .col-md-4 {
+    order: 2;
+  }
+
+  /* New CSS for button group */
+  .btn-group {
+    display: flex;
+    justify-content: center; /* Center align buttons */
+    gap: 10px; /* Space between buttons */
+  }
+}
+
+/* Position theme toggle container */
+.theme-toggle-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000; /* Ensure it's above other content */
+}
+
+/* Shadow styles for main content */
+.shadow-content {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+[data-bs-theme="dark"] .shadow-content {
+  box-shadow: 0 0.5rem 1rem rgba(255, 255, 255, 0.1);
+}
+
+/* Navbar link hover and active styles */
+[data-bs-theme="light"] .navbar a.nav-link:hover,
+[data-bs-theme="light"] .navbar a.nav-link:focus,
+[data-bs-theme="light"] .navbar a.nav-link.active {
+  color: #007bff; /* Change to a blue color on hover/active in light mode */
+}
+
+[data-bs-theme="dark"] .navbar a.nav-link:hover,
+[data-bs-theme="dark"] .navbar a.nav-link:focus,
+[data-bs-theme="dark"] .navbar a.nav-link.active {
+  color: #80bdff; /* Change to a light blue color on hover/active in dark mode */
+}

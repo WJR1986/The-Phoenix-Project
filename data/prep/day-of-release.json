@@ -1,0 +1,42 @@
+{
+    "sections": [
+        {
+            "title": "Day of release (the steps to take)",
+            "content": [
+                "It is now a good time to prepare for your day of release."
+            ]
+        },
+        {
+            "title": "Paperwork and Forms",
+            "content": [
+                "Read your release papers carefully and then sign them.",
+                "If you need medication, go to the discharge nurse. You will have to sign a form when you collect your medicine.",
+                "Sign a form to say you have collected your property. Make sure to check you have everything before signing. Anything left behind will be thrown away and you cannot ask for it back.",
+                "Sign any documents to do with your accommodation that you need to. Make sure you read them carefully and keep a copy for yourself."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        },
+        {
+            "title": "Accommodation and Outside",
+            "content": [
+                "Make sure you know where you are getting your transport from.",
+                "Make sure you see your probation officer on time or you will be in breach of your licence and may have to go back to prison.",
+                "Go to your new accommodation and make sure you know any rules that you need to follow. Breaking rules in your accommodation could cause you problems.",
+                "If you are in a hostel, you can ask your key worker to help you."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        },
+        {
+            "title": "Additional resources",
+            "content": [
+                "If you need medication you should apply to see healthcare. Healthcare can provide you 7 days of medicine on the day you are released from prison.",
+                "If you are of retirement age make a note to contact Age UK to ask for their help in claiming benefits.",
+                "Try and prepare yourself mentally for release. This will not be easy, but think about what you would like to achieve and note down a few aims and objectives for yourself. Think about who you can go to for support."
+            ],
+            "image": "professor.png",
+            "imageTitle": "Professor explaining addition and subtraction"
+        }
+    ]
+}

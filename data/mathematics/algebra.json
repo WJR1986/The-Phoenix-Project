@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "title": "Introduction to Algebra",
+            "content": "This is the introduction to Algebra."
+        },
+        {
+            "title": "Algebra2",
+            "content": "This section covers the basics of addition and subtraction."
+        },
+        {
+            "title": "Algebra3",
+            "content": "This section covers the basics of multiplication and division."
+        },
+        {
+            "title": "Algebra4",
+            "content": "This section covers the basics of fractions."
+        },
+        {
+            "title": "Algebra5",
+            "content": "This section covers the basics of decimals."
+        }
+    ]
+}

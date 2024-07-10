@@ -1,0 +1,24 @@
+{
+    "sections": [
+        {
+            "title": "Introduction to Geometry",
+            "content": "This is the introduction to Geometry."
+        },
+        {
+            "title": "Geometry2",
+            "content": "This section covers the basics of addition and subtraction."
+        },
+        {
+            "title": "Geometry3",
+            "content": "This section covers the basics of multiplication and division."
+        },
+        {
+            "title": "Geometry4",
+            "content": "This section covers the basics of fractions."
+        },
+        {
+            "title": "Geometry5",
+            "content": "This section covers the basics of decimals."
+        }
+    ]
+}

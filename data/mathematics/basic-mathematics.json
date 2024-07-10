@@ -1,0 +1,33 @@
+{
+    "sections": [
+      {
+        "title": "Introduction to Education",
+        "content": "This is the introduction to Basic Mathematics."
+      },
+      {
+        "title": "Addition and Subtraction",
+        "content": "This section covers the basics of addition and subtraction.",
+        "image": "professor.png",
+        "imageTitle": "Professor explaining addition and subtraction"
+      },
+      {
+        "title": "Multiplication and Division",
+        "content": "This section covers the basics of multiplication and division.",
+        "image": "professor.png",
+        "imageTitle": "Illustration of multiplication and division"
+      },
+      {
+        "title": "Fractions",
+        "content": "This section covers the basics of fractions.",
+        "image": "professor.png",
+        "imageTitle": "Visual representation of fractions"
+      },
+      {
+        "title": "Decimals",
+        "content": "This section covers the basics of decimals.",
+        "image": "professor.png",
+        "imageTitle": "Examples of decimal numbers"
+      }
+    ]
+  }
+  
